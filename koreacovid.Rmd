@@ -83,4 +83,10 @@ The odds of dying is 2.3 to 1
 
 ## Conclusions
 
-In conclusion we accept the null hypothesis since the results show that more males die as oppose to females. The ratio for males is at 2.3 when for females its at only 1 which prove that males have a higher rate of dying than females.
+In conclusion we reject the null hypothesis since the results show that more males die as oppose to females and its not dependent on one's sex. The ratio for males is at 2.3 when for females its at only 1 which prove that males have a higher rate of dying than females.
+
+
+
+
+
+
